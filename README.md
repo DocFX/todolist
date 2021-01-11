@@ -1,4 +1,4 @@
-# todolist
+# TODO list
 
 My personal todo-list of things I'll never have the time to, but I keep stacking.
 
@@ -7,6 +7,14 @@ If you need inspiration, you can check this out and watch the repo. This is my w
 # Done
 
 Finish Apache Cassandra Course for Licence Pro // (link is still private)
+
+Learn Go basics.
+
+Learn Python basics.
+
+Learn Maven basics.
+
+Try Android Studio.
 
 # WIP
 
@@ -23,6 +31,12 @@ Microservices architecture // https://www.linkedin.com/learning/microservices-fo
 SEO foundations // https://www.linkedin.com/learning/seo-foundations-2
 
 Start working on the Web Projects Initiative // https://github.com/WebProjectsInitiatives/Symfony-Project-Template (help welcome!)
+
+Build a small Android app.
+
+Start playing with K8S a little more.
+
+Test Sylius commerce a little and set up a meeting with a sales representative.
 
 # TODO (backlog ordered)
 
