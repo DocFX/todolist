@@ -1,8 +1,11 @@
+![TODO List](tw.jpg)
+
 # TODO list
 
 My personal todo-list of things I'll never have the time to, but I keep stacking.
 
-If you need inspiration, you can check this out and watch the repo. This is my watchlist, learn list, todo list.
+If you need inspiration, you can check this out and watch the repo.  
+This is my watchlist, learn list, todo list.
 
 # Done
 
@@ -40,7 +43,7 @@ Test Sylius commerce a little and set up a meeting with a sales representative.
 
 # TODO (backlog ordered)
 
-How to Create a Cassandra Data Model [Webinar] | DataStax // https://www.youtube.com/watch?v=4D39wJu5Too
+How to Create a Cassandra Data Model Webinar | DataStax // https://www.youtube.com/watch?v=4D39wJu5Too
 
 Hosting a Website on Google Cloud Platform // https://www.youtube.com/watch?v=vIJdypOqlL4
 
