@@ -37,6 +37,7 @@ Start working on the Web Projects Initiative // https://github.com/WebProjectsIn
 
 Build a small Android app.
 
+
 Start playing with K8S a little more.
 
 Test Sylius commerce a little and set up a meeting with a sales representative.
@@ -62,4 +63,8 @@ Statistics - A Full University Course on Data Science Basics // https://www.yout
 Data Science Hands-On Crash Course // https://www.youtube.com/watch?v=XU5pw3QRYjQ&feature=youtu.be
 
 Learn about Python a little more // https://www.youtube.com/watch?v=rfscVS0vtbw
+
+Try Flutter and ReactNative.
+
+
 
