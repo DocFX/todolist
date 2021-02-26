@@ -19,9 +19,10 @@ Learn Maven basics.
 
 Try Android Studio.
 
-# WIP
-
 Make a public talk out of Cassandra course for LP (slides and Twitch + YouTube live)
+
+
+# WIP
 
 Make a public talk on Twig tweaks and tricks (slides and Twitch + YouTube live)
 
@@ -37,10 +38,11 @@ Start working on the Web Projects Initiative // https://github.com/WebProjectsIn
 
 Build a small Android app.
 
-
 Start playing with K8S a little more.
 
 Test Sylius commerce a little and set up a meeting with a sales representative.
+
+Make a public talk about Caching.
 
 # TODO (backlog ordered)
 
@@ -66,5 +68,5 @@ Learn about Python a little more // https://www.youtube.com/watch?v=rfscVS0vtbw
 
 Try Flutter and ReactNative.
 
-
+Add containers to listen (filewatcher) with Node to changes made to Webpack-based symfony projects.
 
